@@ -1,7 +1,7 @@
 [package]
-name = "chp6"
+name = "rust_in_motion_6_18"
 version = "0.1.0"
-authors = ["nicolaswong"]
+authors = ["nwzy"]
 edition = "2018"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
